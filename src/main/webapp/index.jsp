@@ -4,6 +4,9 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
+    <label for="Pin"><b>Pin</b></label>
+    <input type="text" placeholder="Enter Pin" name="Pin" id="Pin" required>
+
     <label for="Phoneno"><b>Phoneno</b></label>
     <input type="text" placeholder="Enter Phoneno" name="Phoneno" id="Phoneno" required>
 
