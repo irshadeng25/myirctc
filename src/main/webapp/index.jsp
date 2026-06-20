@@ -4,6 +4,9 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
+    <label for="Adhar"><b>Adhar</b></label>
+    <input type="text" placeholder="Enter Adhar" name="Adhar" id="Adhar" required>
+
     <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
 
